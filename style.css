@@ -3952,6 +3952,15 @@ a {
     margin-bottom: 35px;
 }
 
+.header-bottom__list li a:hover {
+  color: #f77e0b;
+  transition: all .8s ease;
+}
+
+
+
+
+
 
 
 @media screen and (max-width:1600px) {
