@@ -3930,10 +3930,27 @@ a {
     background-color: #fe9d2b;
 }
 
+.contacts-represent-title {}
+.contacts-represent-list {
+  padding-left: 0;
+  margin-left: 0;
+  margin-bottom: 35px;
+}
+.contacts-represent-list span {
+  font-weight: bold;
+}
+.contacts-represent-list-item {
+  list-style-type: none;
+  margin-bottom: 20px;
+}
+.contacts-represent-list-item:last-child {
+  margin-bottom: 0;
+}
 
-
-
-
+.mapLineRepresent {
+    height: 350px;
+    margin-bottom: 35px;
+}
 
 
 
