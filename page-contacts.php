@@ -15,15 +15,15 @@ get_header();
 	<p>
 		<strong>Email:</strong> <a href="mailto:<?php echo carbon_get_theme_option('as_email');?>"><?php echo carbon_get_theme_option('as_email');?></a>
 	</p>
-	<p>
+	<!-- <p>
 		<strong>Адрес:</strong> <span >г. Орел, ул. Московское шоссе 137, офис 721</span> 
 	</p>
 	<p>
-		<strong>Телефоны:</strong> <a href="tel:"+7(4862) 488180>+7(4862) 488180</a>
+		<strong>Телефоны:</strong> <a href="tel:"+7(4862) 488180>+7(4862) 488180</a> 
 	</p>
 	<p>
 		<strong>Email:</strong> <a href="mailto:biot-info@mail.ru">biot-info@mail.ru</a>
-	</p>
+	</p> -->
 	<p>
 		<?php if(carbon_get_theme_option('as_inn')):?>
 			<p>
