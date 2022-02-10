@@ -3966,7 +3966,10 @@ a {
   font-weight: bold;
 }
 
-
+.center-descr p {
+  font-family: BoldBold, sans-serif;
+  font-size: 22px;
+}
 
 
 
