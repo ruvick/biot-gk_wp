@@ -34,7 +34,7 @@ if(!is_home() || !is_front_page()) {
   <?php wp_body_open(); ?>
   <div style="display: none;">
       <div class="box-modal" id="messgeModal">
-          <div class="box-modal_close arcticmodal-close">закрыть</div>
+          <div class="box-modal_close arcticmodal-close">закрыть</div> 
           <div class = "modalline" id = "lineIcon">
       </div>
       
@@ -48,7 +48,7 @@ if(!is_home() || !is_front_page()) {
           <div class="box-modal_close arcticmodal-close">закрыть</div>
           <div class = "modalline" id = "lineIcon">
             <form action="">
-              <h2>Получить консультацию</h2>
+              <div class="order-modal__title">Получить консультацию</div>
               <input type="text" name="name" placeholder="Ваше имя">
               <input type="tel" name="tel" placeholder="Ваш телефон">
               <span class="note-form">Нажимая на кнопку <span id="name_serv">Отправить заявку</span>, вы соглашаетесь с условиями <a href = "<?php echo get_the_permalink(3);?>">обработки персональных данных</a></span>
@@ -74,7 +74,7 @@ if(!is_home() || !is_front_page()) {
         
       </div>
       <div class="uniConsultModal-form">
-            <h2 id = "uniHeaderNdp">Перезвоним Вам в течении 15 минут</h2>
+            <div id = "uniHeaderNdp" class="order-modal__title">Перезвоним Вам в течении 15 минут</div>
         <form class = "uniForm phone-modal">
             <input type = "hidden" class = "uniFormName" id = "ovFormName" value = "по кнопке">
             <!-- <input type = "text" class = "uniName" id = "uniName" placeholder = "Имя"> -->
