@@ -30,7 +30,7 @@ get_header();
         <p>Создавая группу компаний мы стремились обеспечить комфортные и  безопасные условия для предприятий работающих на территории ЦФО собрав в рамках одной компании весь спектр услуг по организации охраны труда и экологии для любой компании.</p>
         <p>Уже более 10 лет мы динамично развиваемся и совершенствуемся для того чтобы наши клиенты всегда могли рассчитывать на достойный уровень сервиса и высокую компетенцию наших специалистов.</p>
       </div>
-      <div class="about-photo section-bg" style="background-image: url(<?php echo get_template_directory_uri();?>/img/about-bg.png)"></div>
+      <div class="about-photo section-bg" style="background-image: url(<?php echo get_template_directory_uri();?>/img/about-bg.jpg)"></div>
     </div>
   </section>
 
@@ -88,7 +88,7 @@ get_header();
 
         
 		<div class="services-item">
-          <div class="services-item__photo" style="background-image: url(<?php echo get_template_directory_uri();?>/img/serv-2.png)"></div>
+          <div class="services-item__photo" style="background-image: url(<?php echo get_template_directory_uri();?>/img/serv-2.jpg)"></div>
           <div class="services-item__content">
             <div class="services-item__title">Оценка профессиональных рисков</div>
             <div class="services-item__text">Проведем в Вашей организации полный цикл работ по разработке,внедрению необходимых документов и процедур СУОТ и оценке профессиональных рисков в полном соответствии с требованием статей 209 и 212 ТК, Приказа Минтруда РФ 438н (пунктов 29,33-39), Приказа Роструда№77</div>
@@ -97,7 +97,7 @@ get_header();
         </div>
 		
 		 <div class="services-item">
-          <div class="services-item__photo" style="background-image: url(<?php echo get_template_directory_uri();?>/img/serv-1.png)"></div>
+          <div class="services-item__photo" style="background-image: url(<?php echo get_template_directory_uri();?>/img/serv-1.jpg)"></div>
           <div class="services-item__content">
             <div class="services-item__title">Аутсорсинг по охране труда</div>
             <div class="services-item__text">Аутсорсинг по охране труда-выполнение функций специалиста по охране труда сторонней организацией. Передача функций (полностью или частично) выполняется на основании заключенного договора между Заказчиком и организацией, специализирующейся на оказании услуг в сфере труда. Аутсорсинг охраны труда позволяет более эффективно выполнять работу в области охраны труда и сократить нагрузку на бюджет организации. Наша компания будет организовывать обучение сотрудников, проводить инструктажи, внедрять все необходимые мероприятия по предупреждению несчастных случаев, представлять клиента при проверках инспектирующих организаций.</div>
