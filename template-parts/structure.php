@@ -10,7 +10,7 @@ endif;?>
       <div class="structure-item">
         <a href="<?php echo get_permalink(38);?>"  class="structure-item__photo" style="background-image: url(<?php echo get_template_directory_uri();?>/img/str-1.jpg)"></a>
         <div class="structure-item__content">
-          <a href="<?php echo get_permalink(38);?>" class="structure-item__title">ООО "Центр охраны труда"</a>
+          <a href="<?php echo get_permalink(38);?>" class="structure-item__title">ООО "Центр охраны труда и экологии"</a>
           <div class="structure-item__text">Мы занимаемся оказанием услуг по специальной оценке условий труда, экологии и производственному контролю, зарегистрированы в реестре Минтруда и соц. развития РФ для выполнения данных работ имеем аттестат аккредитации нашей лаборатории,  а так же высококвалифицированный штат.</div>
           <a href="<?php echo get_permalink(38);?>" class="button">Подробнее</a>
         </div>
