@@ -27,7 +27,7 @@ get_header();
         	</ul>
 
 			</div>
-      </div>
+      </div> 
       <div class="section-bg" style="background-image: url(<?php echo wp_get_attachment_image_src(carbon_get_the_post_meta('image_block'), 'full')[0];?>)"></div>
     </div>
   </section>

@@ -18,7 +18,7 @@ endif;?>
       <div class="structure-item">
         <a href="<?php echo get_permalink(40);?>"  class="structure-item__photo" style="background-image: url(<?php echo get_template_directory_uri();?>/img/str-2.jpg)"></a>
         <div class="structure-item__content">
-          <a href="<?php echo get_permalink(40);?>" class="structure-item__title">ООО "Рос.Труд"</a>
+          <a href="<?php echo get_permalink(40);?>" class="structure-item__title">ООО ЦТПБ "Уникапроф"</a>
           <div class="structure-item__text">Наша компания осуществляет аутсорсинг и разработку документации по охране труда. Мы производим оценку профессиональных рисков и аудит системы охраны труда.</div>
           <a href="<?php echo get_permalink(40);?>" class="button">Подробнее</a>
         </div>
