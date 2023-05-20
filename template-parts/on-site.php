@@ -3,9 +3,9 @@
 	if(is_page(42)) {
 		$link = 'http://regobrcenter.ru/';
 	} elseif(is_page(40)) {
-		$link = 'http://xn----htb2ahceij.xn--p1ai/';
+		$link = 'https://unicaprof.ru/';
 	} elseif (is_page(38)) {
-		$link = 'http://xn----ttbanmgdkw.xn--p1ai/';
+		$link = 'https://xn--n1aik4a.xn--p1ai/';
 	}
 ?>
 <section class="on-site">
